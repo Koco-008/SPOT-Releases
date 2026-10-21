@@ -1,6 +1,6 @@
 # SPOT public releases
 
-Latest published version: v0.28.8.
+Latest published version: v0.28.9.
 
 Complete editable Python sources, tests and documentation are included in each signed source ZIP under Releases. SPOT code is MIT licensed; third-party notices remain in the source package.
 
