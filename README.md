@@ -1,5 +1,7 @@
 # SPOT public releases
 
+[SPOT project and build guide](https://github.com/Koco-008/SPOT) · [Public SPOT OS source](https://github.com/Koco-008/SPOT-OS) · [Signed OS releases](https://github.com/Koco-008/SPOT-OS-Releases/releases/tag/os-v0.1.7).
+
 Latest published version: v0.31.1.
 
 Complete editable Python sources, tests and documentation are included in each signed source ZIP under Releases. SPOT code is MIT licensed; third-party notices remain in the source package.
